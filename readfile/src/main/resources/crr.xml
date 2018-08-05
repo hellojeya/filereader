@@ -1,0 +1,22 @@
+<CRRFile>
+
+	<CRRDataLine tableName="EMP0001">
+		<CRRField fieldName="name" startPos="0" endPos="8"/>
+		<CRRField fieldName="age" startPos="8" endPos="10"/>
+		<CRRField fieldName="salary" startPos="10" endPos="14"/>
+		<CRRField fieldName="addr" startPos="14" endPos="20"/>
+		<CRRField fieldName="code" startPos="20" endPos="23"/>
+		<CRRField fieldName="dept" startPos="23" endPos="25"/>
+	</CRRDataLine>
+
+
+	<CRRDataLine tableName="EMP0002">
+		<CRRField fieldName="name" startPos="0" endPos="8"/>
+		<CRRField fieldName="age" startPos="8" endPos="10"/>
+		<CRRField fieldName="salary" startPos="10" endPos="14"/>
+		<CRRField fieldName="addr" startPos="14" endPos="20"/>
+		<CRRField fieldName="code" startPos="20" endPos="23"/>
+		<CRRField fieldName="dept" startPos="23" endPos="25"/>
+	</CRRDataLine>
+
+</CRRFile>

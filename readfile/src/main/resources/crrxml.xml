@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CRRFile>
+	<CRRDataLine tableName="table1">
+		<!-- <CRRField fieldNAme="name" startPos="0" endPos="8"/>
+		<CRRField fieldNAme="age" startPos="8" endPos="10"/>
+		<CRRField fieldNAme="salary" startPos="10" endPos="14"/>
+		<CRRField fieldNAme="addr" startPos="14" endPos="20"/>
+		<CRRField fieldNAme="code" startPos="20" endPos="23"/>
+		<CRRField fieldNAme="dept" startPos="23" endPos="25"/> -->
+	</CRRDataLine>
+	<CRRDataLine tableName="table2"/>
+</CRRFile>
